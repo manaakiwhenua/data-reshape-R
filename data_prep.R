@@ -23,11 +23,16 @@ for (i in seq_along(file_list)) {
   data1<- data1[-1, ]
   #Set the row name to correspond to the sample ID
   rownames(data1)<- colnames(read.csv(file = filename, stringsAsFactors = FALSE, sep = '\t' ))
-  # Add year to data_list
-  data_list[[i]] <- data1
+
+  
+  if (nrow(final_data) == 0){
+    final_data <- data1
+  }else{
   final_data <- merge(final_data, data1, all=TRUE) 
+  }
+  
+  # Add year to data_list (for testing)
+  data_list[[i]] <- data1
 }
-
-
 
 
