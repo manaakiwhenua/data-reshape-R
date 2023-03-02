@@ -1,0 +1,64 @@
+Data file:,V3.2-001-20230119 041136-r002.dx
+Sequence Name:,2023---floral volatiles 20122022 samples,Project Name:,Floral volatiles GCMS
+Sample name:,V3.2,Operator:,Amelia Gibbs (LANDCARE\GibbsA)
+Instrument:,GCMS,Acquired on:,2023-01-19 04:30:44+13:00
+Inj. volume:,1.000 µL,Location:,203
+Acq. method:,floral volatiles SPME DB-Wax.amx,Type:,Sample
+Processing method:,*MS_DefaultMethod-floral-volatiles-2023.pmx,Sample amount:,0.00
+Identified peaks from method library
+Name,RT [min],Spectra Match Factor,Peak Height,Height %,Peak Area,Area %
+Ethyl Acetate,5.088,996,5638999.9,2.38,11785237.5,1.38
+Ethanol,5.779,982,4941096.6,2.08,20573275.5,2.41
+α-Pinene,7.457,997,35401055.8,14.92,232461307.9,27.26
+"Butanoic acid, 2-methyl-, ethyl ester",8.057,993,2741033.0,1.16,5971428.3,0.70
+"Butanoic acid, 3-methyl-, ethyl ester",8.401,973,1575753.8,0.66,3277883.0,0.38
+"1-Propanol, 2-methyl-",9.177,966,942970.4,0.40,2527994.3,0.30
+β-Pinene,9.306,922,15633906.9,6.59,52258274.4,6.13
+β-Myrcene,10.890,991,5342232.0,2.25,14512996.8,1.70
+"2-Butenoic acid, ethyl ester, (Z)-",11.012,954,972514.6,0.41,2597167.1,0.30
+D-Limonene,11.996,964,4051054.9,1.71,11414982.2,1.34
+β-Phellandrene,12.300,958,1231401.4,0.52,3404044.9,0.40
+Eucalyptol,12.471,337,4665939.5,1.97,19183897.9,2.25
+"2-Butenoic acid, 3-methyl-, ethyl ester",12.933,973,840740.7,0.35,2191544.4,0.26
+Ethyl tiglate,13.297,984,2796311.2,1.18,7585297.7,0.89
+β-Ocimene,13.501,798,872651.4,0.37,2412264.3,0.28
+3-Carene,13.666,982,1269037.3,0.53,3297358.3,0.39
+Styrene,13.892,982,13244309.8,5.58,40228223.6,4.72
+"Cyclohexene, 3-methyl-6-(1-methylethylidene)-",14.722,968,1108517.9,0.47,3305317.1,0.39
+"Butanoic acid, 3-methyl-, 2-methylbutyl ester",15.158,887,1830704.0,0.77,7895307.4,0.93
+1-Hexanol,17.096,982,1583853.0,0.67,4341115.1,0.51
+"3-Hexen-1-ol, (Z)-",18.107,979,3841064.3,1.62,10681236.7,1.25
+p-(1-Propenyl)-toluene,19.815,99,612993.5,0.26,4896138.5,0.57
+"3,5-Heptanedione, 2,2,6-trimethyl-",19.999,293,3091347.7,1.30,9159669.1,1.07
+trans-Linalool oxide (furanoid),20.385,268,5841228.9,2.46,20033030.5,2.35
+α-Cubebene,20.425,988,4434430.1,1.87,9666879.9,1.13
+"2-Furanmethanol, 5-ethenyltetrahydro-α,α,5-trimethyl-, cis-",20.770,274,822416.4,0.35,3037963.6,0.36
+Copaene,21.524,757,3242245.1,1.37,9708180.0,1.14
+"1H-Cycloprop[e]azulene, 1a,2,3,4,4a,5,6,7b-octahydro-1,1,4,",22.396,179,678561.2,0.29,2158621.9,0.25
+"Benzene, 1-ethyl-4-methoxy-",22.717,276,1282589.4,0.54,2469436.9,0.29
+1-Octanol,23.156,430,8681337.9,3.66,24501961.2,2.87
+Caryophyllene,24.745,988,2977919.1,1.25,12048724.6,1.41
+Terpinen-4-ol,24.899,940,1093907.7,0.46,3703860.6,0.43
+(Z)-Undec-6-en-2-one,25.572,922,788407.5,0.33,2277640.1,0.27
+Bicyclosesquiphellandrene,25.767,986,4342278.4,1.83,14850316.8,1.74
+Isopinocarveol,26.488,860,1450211.8,0.61,4235136.7,0.50
+"1-Isopropyl-4,7-dimethyl-1,2,3,4,5,6-hexahydronaphthalene",26.565,988,3297905.4,1.39,11217274.5,1.32
+"Benzoic acid, ethyl ester",26.725,949,623017.1,0.26,2098112.4,0.25
+"3-Nonen-1-ol, (Z)-",27.177,431,616277.1,0.26,1831249.8,0.21
+γ-Muurolene,27.395,906,533320.7,0.22,1834220.1,0.22
+α-Terpineol,27.636,936,1464368.7,0.62,5204739.5,0.61
+"Bicyclo[3.1.1]hept-3-en-2-one, 4,6,6-trimethyl-",28.018,924,700594.4,0.30,2931062.7,0.34
+"cis-Muurola-4(15),5-diene",28.297,455,1643575.9,0.69,5210801.4,0.61
+"Naphthalene, 1,2,4a,5,6,8a-hexahydro-4,7-dimethyl-1-(1-meth",28.410,614,981814.0,0.41,4295480.2,0.50
+"1-Isopropyl-4,7-dimethyl-1,2,3,5,6,8a-hexahydronaphthalene",29.312,985,4619759.5,1.95,14427615.8,1.69
+Cubenene,30.012,973,2436054.3,1.03,7978432.5,0.94
+(-)-Myrtenol,30.345,910,1955525.5,0.82,5784238.0,0.68
+"Ethanone, 1-(2-hydroxyphenyl)-",30.483,592,1574060.8,0.66,5113179.8,0.60
+"Naphthalene, 1,2,3,4-tetrahydro-1,6-dimethyl-4-(1-methyleth",31.382,995,6869635.6,2.89,21339628.4,2.50
+"Benzenemethanol, α,α,4-trimethyl-",32.018,173,4892547.1,2.06,14845122.0,1.74
+(-)-cis-Myrtanol,32.499,385,3958694.9,1.67,13215393.0,1.55
+Phenylethyl Alcohol,33.436,991,5852990.5,2.47,18321139.7,2.15
+ortho-Methoxyacetophenone,35.496,989,2143119.9,0.90,6542972.0,0.77
+Methyleugenol,35.721,86,4900731.1,2.07,15722066.4,1.84
+"Phenol, 4-ethyl-2-methoxy-",36.372,898,20520113.4,8.65,70406403.1,8.26
+3-Phenylpropanol,36.796,983,1297212.3,0.55,3887097.2,0.46

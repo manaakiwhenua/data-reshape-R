@@ -1,0 +1,63 @@
+Data file:,V17.1-001-20230117 112545-r002.dx
+Sequence Name:,2023--floral volatiles 20122022 samples,Project Name:,Floral volatiles GCMS
+Sample name:,V17.1,Operator:,Amelia Gibbs (LANDCARE\GibbsA)
+Instrument:,GCMS,Acquired on:,2023-01-17 12:14:53+13:00
+Inj. volume:,1.000 µL,Location:,102
+Acq. method:,floral volatiles SPME DB-Wax.amx,Type:,Sample
+Processing method:,MS_DefaultMethod-floral-volatiles-2023.pmx,Sample amount:,0.00
+Identified peaks from method library
+Name,RT [min],Spectra Match Factor,Peak Height,Height %,Peak Area,Area %
+Ethyl Acetate,5.089,988,8235451.2,2.85,18246953.7,1.64
+Ethanol,5.776,988,4929771.7,1.70,17977932.4,1.61
+α-Pinene,7.453,987,36836011.6,12.73,251176054.7,22.55
+"Butanoic acid, 2-methyl-, ethyl ester",8.059,992,2508091.1,0.87,5525259.0,0.50
+"Butanoic acid, 3-methyl-, ethyl ester",8.403,988,2100721.7,0.73,4484146.0,0.40
+β-Pinene,9.349,1000,3358812.9,1.16,9579402.4,0.86
+β-Myrcene,10.954,979,3780091.5,1.31,10330370.0,0.93
+"2-Butenoic acid, ethyl ester, (Z)-",11.030,923,1160116.3,0.40,3398178.7,0.31
+(+)-4-Carene,11.466,984,1315039.5,0.45,3653739.4,0.33
+D-Limonene,12.062,994,6188571.5,2.14,17872666.0,1.60
+"1-Butanol, 3-methyl-",12.496,288,14032172.8,4.85,60091732.6,5.40
+"2-Butenoic acid, 3-methyl-, ethyl ester",12.961,980,1234621.2,0.43,3359828.0,0.30
+Ethyl tiglate,13.324,989,3049311.1,1.05,8782919.0,0.79
+β-Ocimene,13.585,788,18374342.2,6.35,70139986.2,6.30
+3-Carene,13.728,972,5985074.7,2.07,21903296.8,1.97
+Styrene,13.918,998,9447881.4,3.26,28069221.5,2.52
+o-Cymene,14.381,999,23221326.6,8.02,93971157.6,8.44
+"Cyclohexene, 3-methyl-6-(1-methylethylidene)-",14.784,982,8113467.7,2.80,28147496.6,2.53
+"Butanoic acid, 3-methyl-, 2-methylbutyl ester",15.205,954,710718.9,0.25,2860796.2,0.26
+1-Hexanol,17.096,977,1418694.5,0.49,3803564.4,0.34
+"3-Hexen-1-ol, (Z)-",18.102,975,1374305.7,0.47,3858995.3,0.35
+p-(1-Propenyl)-toluene,19.709,980,2756080.1,0.95,8763847.6,0.79
+α-Cubebene,20.431,993,9077304.2,3.14,35263546.0,3.17
+Copaene,21.527,912,3485732.0,1.20,10535854.1,0.95
+"Benzene, 1-ethyl-4-methoxy-",22.721,272,2148487.3,0.74,7043955.7,0.63
+1-Octanol,23.154,438,2558670.5,0.88,6801913.1,0.61
+cis-α-Bergamotene,24.338,924,1177734.3,0.41,3981489.0,0.36
+Caryophyllene,24.756,990,3317566.0,1.15,10299119.0,0.92
+Terpinen-4-ol,24.905,991,3287135.2,1.14,11079409.8,0.99
+(Z)-Undec-6-en-2-one,25.675,359,601037.9,0.21,2495694.0,0.22
+Bicyclosesquiphellandrene,25.781,992,6661936.4,2.30,20318455.4,1.82
+Alloaromadendrene,26.191,982,733869.6,0.25,2915532.9,0.26
+Isopinocarveol,26.494,953,2744073.2,0.95,8247903.0,0.74
+"1-Isopropyl-4,7-dimethyl-1,2,3,4,5,6-hexahydronaphthalene",26.571,981,2860159.1,0.99,9469531.6,0.85
+"Benzoic acid, ethyl ester",26.734,994,3391287.4,1.17,9988106.1,0.90
+"3-Nonen-1-ol, (Z)-",27.180,449,885705.1,0.31,2643643.5,0.24
+γ-Muurolene,27.251,213,1193864.8,0.41,3230446.4,0.29
+α-Terpineol,27.644,998,3947981.1,1.36,18375546.2,1.65
+"Bicyclo[3.1.1]hept-3-en-2-one, 4,6,6-trimethyl-",28.023,981,856214.7,0.30,3620843.1,0.33
+"cis-Muurola-4(15),5-diene",28.152,981,1918414.8,0.66,6359912.7,0.57
+"Naphthalene, 1,2,4a,5,6,8a-hexahydro-4,7-dimethyl-1-(1-meth",28.395,963,579164.9,0.20,2421764.0,0.22
+"(1S,2E,6E,10R)-3,7,11,11-Tetramethylbicyclo[8.1.0]undeca-2,",28.694,991,3316590.5,1.15,9960410.0,0.89
+"1-Isopropyl-4,7-dimethyl-1,2,3,5,6,8a-hexahydronaphthalene",29.316,974,4394052.6,1.52,13690285.8,1.23
+Cubenene,30.015,984,2391961.1,0.83,8296483.3,0.74
+(-)-Myrtenol,30.366,998,14449490.2,4.99,48286174.0,4.34
+"Naphthalene, 1,2,3,4-tetrahydro-1,6-dimethyl-4-(1-methyleth",31.390,987,8514885.2,2.94,28454030.2,2.55
+"Benzenemethanol, α,α,4-trimethyl-",31.753,982,882961.6,0.31,2719001.7,0.24
+(-)-cis-Myrtanol,32.484,997,11220945.9,3.88,39276678.1,3.53
+Phenylethyl Alcohol,33.441,993,6788752.5,2.35,20260318.7,1.82
+ortho-Methoxyacetophenone,35.500,985,1373657.6,0.47,4115280.4,0.37
+Methyleugenol,35.915,938,1977495.8,0.68,16446263.2,1.48
+"Phenol, 4-ethyl-2-methoxy-",36.369,999,9289541.3,3.21,27965231.4,2.51
+3-Phenylpropanol,36.805,976,1923081.2,0.66,5867276.0,0.53
+4-Vinylphenol,37.343,965,1479602.4,0.51,11084172.3,1.00

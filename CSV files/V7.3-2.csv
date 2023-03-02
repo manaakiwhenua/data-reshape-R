@@ -1,0 +1,53 @@
+Data file:,V7.3-001-20230118 181455-r002.dx
+Sequence Name:,2023---floral volatiles 20122022 samples,Project Name:,Floral volatiles GCMS
+Sample name:,V7.3,Operator:,Amelia Gibbs (LANDCARE\GibbsA)
+Instrument:,GCMS,Acquired on:,2023-01-18 18:34:02+13:00
+Inj. volume:,1.000 µL,Location:,113
+Acq. method:,floral volatiles SPME DB-Wax.amx,Type:,Sample
+Processing method:,*MS_DefaultMethod-floral-volatiles-2023.pmx,Sample amount:,0.00
+Identified peaks from method library
+Name,RT [min],Spectra Match Factor,Peak Height,Height %,Peak Area,Area %
+Ethanol,5.772,984,3811484.4,1.12,13260189.6,1.15
+α-Pinene,7.445,996,35570830.1,10.45,56128875.0,4.85
+β-Pinene,9.368,893,19050957.9,5.60,68032017.1,5.88
+β-Myrcene,10.965,961,13803472.2,4.06,45139301.6,3.90
+(+)-4-Carene,11.464,987,3430447.2,1.01,8993633.1,0.78
+D-Limonene,12.055,969,5924043.1,1.74,16859830.7,1.46
+β-Phellandrene,12.355,950,1336086.9,0.39,2729198.8,0.24
+Eucalyptol,12.454,558,2902792.2,0.85,7839250.9,0.68
+β-Ocimene,13.597,769,23475804.9,6.90,97814559.3,8.46
+3-Carene,13.716,889,1293500.4,0.38,5427870.1,0.47
+Styrene,13.912,998,7819004.0,2.30,24142229.0,2.09
+o-Cymene,14.368,999,18715353.8,5.50,68147528.6,5.89
+"Cyclohexene, 3-methyl-6-(1-methylethylidene)-",14.783,989,12099958.7,3.56,41731603.9,3.61
+1-Hexanol,17.093,888,1252769.7,0.37,3358327.9,0.29
+"3-Hexen-1-ol, (Z)-",18.103,978,2100061.1,0.62,5817781.7,0.50
+p-(1-Propenyl)-toluene,19.815,241,398892.2,0.12,3014743.4,0.26
+"3,5-Heptanedione, 2,2,6-trimethyl-",20.005,197,4483464.9,1.32,13103490.9,1.13
+α-Cubebene,20.429,995,7767357.1,2.28,28291774.9,2.45
+"2-Furanmethanol, 5-ethenyltetrahydro-α,α,5-trimethyl-, cis-",20.782,338,721965.7,0.21,2506140.8,0.22
+Copaene,21.529,970,3513116.2,1.03,11857642.7,1.03
+"Benzene, 1-ethyl-4-methoxy-",22.722,273,2715929.8,0.80,9445694.5,0.82
+1-Octanol,23.162,430,9267276.5,2.72,26090525.4,2.26
+Caryophyllene,24.756,987,3810564.3,1.12,12435894.6,1.08
+Terpinen-4-ol,24.906,956,5660209.9,1.66,19792344.9,1.71
+Bicyclosesquiphellandrene,25.780,986,5638045.8,1.66,17203693.1,1.49
+Isopinocarveol,26.495,985,4229807.8,1.24,12983630.7,1.12
+"1-Isopropyl-4,7-dimethyl-1,2,3,4,5,6-hexahydronaphthalene",26.570,979,3127245.9,0.92,9788691.0,0.85
+α-Terpineol,27.641,948,3358792.7,0.99,10719244.0,0.93
+"Bicyclo[3.1.1]hept-3-en-2-one, 4,6,6-trimethyl-",28.032,736,808110.6,0.24,3161543.8,0.27
+"cis-Muurola-4(15),5-diene",28.297,465,874946.1,0.26,2707314.5,0.23
+"Naphthalene, 1,2,4a,5,6,8a-hexahydro-4,7-dimethyl-1-(1-meth",28.412,609,895116.8,0.26,3800369.9,0.33
+"(1S,2E,6E,10R)-3,7,11,11-Tetramethylbicyclo[8.1.0]undeca-2,",28.689,984,1156473.3,0.34,3374289.1,0.29
+"1-Isopropyl-4,7-dimethyl-1,2,3,5,6,8a-hexahydronaphthalene",29.315,992,4061969.3,1.19,12468614.1,1.08
+Cubenene,30.013,989,2668919.6,0.78,8592700.4,0.74
+(-)-Myrtenol,30.369,982,14965109.6,4.40,50677624.5,4.38
+"Ethanone, 1-(2-hydroxyphenyl)-",30.478,720,812402.2,0.24,2701855.7,0.23
+"Naphthalene, 1,2,3,4-tetrahydro-1,6-dimethyl-4-(1-methyleth",31.391,988,8636252.1,2.54,27185813.4,2.35
+"Benzenemethanol, α,α,4-trimethyl-",32.022,119,2765690.9,0.81,8172970.0,0.71
+(-)-cis-Myrtanol,32.501,459,4461667.6,1.31,17058417.9,1.48
+Phenylethyl Alcohol,33.441,995,6683723.1,1.96,21037233.9,1.82
+ortho-Methoxyacetophenone,35.500,984,4784360.1,1.41,14452401.6,1.25
+Methyleugenol,35.723,70,3236844.5,0.95,10161091.1,0.88
+"Phenol, 4-ethyl-2-methoxy-",36.394,756,32301008.2,9.49,138498180.8,11.98
+4-Vinylphenol,37.319,979,1108224.5,0.33,8090750.4,0.70

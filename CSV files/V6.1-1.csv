@@ -1,0 +1,62 @@
+Data file:,V6.1-001-20230118 191436-r001.dx
+Sequence Name:,2023---floral volatiles 20122022 samples,Project Name:,Floral volatiles GCMS
+Sample name:,V6.1,Operator:,Amelia Gibbs (LANDCARE\GibbsA)
+Instrument:,GCMS,Acquired on:,2023-01-18 19:33:43+13:00
+Inj. volume:,1.000 µL,Location:,114
+Acq. method:,floral volatiles SPME DB-Wax.amx,Type:,Sample
+Processing method:,*MS_DefaultMethod-floral-volatiles-2023.pmx,Sample amount:,0.00
+Identified peaks from method library
+Name,RT [min],Spectra Match Factor,Peak Height,Height %,Peak Area,Area %
+Ethyl Acetate,5.090,996,4637427.4,1.67,9552635.0,0.95
+Ethanol,5.780,984,5315210.0,1.91,21282970.5,2.12
+α-Pinene,7.431,998,34552938.6,12.44,183074877.7,18.25
+"Butanoic acid, 2-methyl-, ethyl ester",8.058,991,2167574.3,0.78,4761742.4,0.47
+β-Pinene,9.311,944,13881128.2,5.00,43949741.8,4.38
+β-Myrcene,10.950,921,20973756.2,7.55,96216037.7,9.59
+"2-Butenoic acid, ethyl ester, (Z)-",11.019,936,1643524.7,0.59,4107056.7,0.41
+(+)-4-Carene,11.421,990,2146446.9,0.77,5525199.4,0.55
+D-Limonene,12.012,971,4872435.5,1.75,13483985.7,1.34
+β-Phellandrene,12.315,969,2520737.4,0.91,6780884.6,0.68
+Eucalyptol,12.461,796,4458165.1,1.60,17022845.3,1.70
+"2-Butenoic acid, 3-methyl-, ethyl ester",12.943,979,1369041.8,0.49,3533836.8,0.35
+Ethyl tiglate,13.305,982,2178662.0,0.78,5925885.2,0.59
+β-Ocimene,13.539,785,17160877.5,6.18,57687668.7,5.75
+3-Carene,13.684,983,5861820.5,2.11,16944498.6,1.69
+Styrene,13.900,993,13186479.7,4.75,39689240.4,3.96
+o-Cymene,14.343,1000,21452456.5,7.72,76283778.7,7.61
+"Cyclohexene, 3-methyl-6-(1-methylethylidene)-",14.747,988,8491710.3,3.06,24626765.8,2.46
+1-Hexanol,17.098,979,2167407.9,0.78,5868962.1,0.59
+"3-Hexen-1-ol, (Z)-",18.104,988,2266878.1,0.82,6186207.2,0.62
+p-(1-Propenyl)-toluene,19.690,990,1293751.6,0.47,3678186.1,0.37
+trans-Linalool oxide (furanoid),20.382,288,2915462.5,1.05,16602321.2,1.66
+"2-Furanmethanol, 5-ethenyltetrahydro-α,α,5-trimethyl-, cis-",20.894,901,627296.9,0.23,2568254.9,0.26
+Copaene,21.531,948,973371.9,0.35,3123918.1,0.31
+"Benzene, 1-ethyl-4-methoxy-",22.707,272,960432.0,0.35,2647987.1,0.26
+1-Octanol,23.151,430,3701873.3,1.33,9887677.2,0.99
+cis-α-Bergamotene,24.330,948,600515.1,0.22,2282217.1,0.23
+Caryophyllene,24.748,979,1618741.3,0.58,6042387.0,0.60
+Terpinen-4-ol,24.903,869,3600231.1,1.30,12847509.2,1.28
+Bicyclosesquiphellandrene,25.767,984,3145888.6,1.13,10953648.9,1.09
+Isopinocarveol,26.491,978,1403598.7,0.51,4088028.9,0.41
+"1-Isopropyl-4,7-dimethyl-1,2,3,4,5,6-hexahydronaphthalene",26.559,951,1709178.7,0.62,5954220.6,0.59
+"3-Nonen-1-ol, (Z)-",27.247,922,1115160.1,0.40,3074196.0,0.31
+γ-Muurolene,27.398,902,712608.3,0.26,2540671.1,0.25
+α-Terpineol,27.637,945,1540300.1,0.55,5205905.6,0.52
+"Bicyclo[3.1.1]hept-3-en-2-one, 4,6,6-trimethyl-",28.031,698,653258.3,0.24,2628237.6,0.26
+"cis-Muurola-4(15),5-diene",28.295,435,2503480.8,0.90,8197953.2,0.82
+"Naphthalene, 1,2,4a,5,6,8a-hexahydro-4,7-dimethyl-1-(1-meth",28.418,623,2126767.0,0.77,7379969.0,0.74
+"(1S,2E,6E,10R)-3,7,11,11-Tetramethylbicyclo[8.1.0]undeca-2,",28.686,979,1112054.1,0.40,3315282.9,0.33
+"1,3,6,10-Dodecatetraene, 3,7,11-trimethyl-, (Z,E)-",28.961,1000,1236422.2,0.45,3672806.8,0.37
+"3,6-Nonadien-1-ol, (E,Z)-",29.115,923,790420.9,0.28,2204494.5,0.22
+"1-Isopropyl-4,7-dimethyl-1,2,3,5,6,8a-hexahydronaphthalene",29.313,985,2274098.3,0.82,7203426.7,0.72
+Cubenene,30.010,980,1310278.7,0.47,4262054.8,0.42
+(-)-Myrtenol,30.360,994,10931898.7,3.94,34314221.1,3.42
+"Ethanone, 1-(2-hydroxyphenyl)-",30.481,613,1173687.4,0.42,3955772.2,0.39
+"Naphthalene, 1,2,3,4-tetrahydro-1,6-dimethyl-4-(1-methyleth",31.382,996,5784411.6,2.08,17850681.3,1.78
+(-)-cis-Myrtanol,32.483,842,3368581.6,1.21,14716111.3,1.47
+Phenylethyl Alcohol,33.438,993,5038196.5,1.81,15749447.1,1.57
+ortho-Methoxyacetophenone,35.496,986,2283065.2,0.82,6903766.0,0.69
+Methyleugenol,35.722,106,889564.1,0.32,2898495.8,0.29
+"Phenol, 4-ethyl-2-methoxy-",36.376,863,23509260.5,8.46,80862431.4,8.06
+3-Phenylpropanol,36.801,977,1233444.0,0.44,3781672.9,0.38
+4-Vinylphenol,37.314,985,1267584.3,0.46,9379480.4,0.94

@@ -1,0 +1,56 @@
+Data file:,V16.1-001-20230118 035151-r001.dx
+Sequence Name:,2023--floral volatiles 20122022 samples,Project Name:,Floral volatiles GCMS
+Sample name:,V16.1,Operator:,Amelia Gibbs (LANDCARE\GibbsA)
+Instrument:,GCMS,Acquired on:,2023-01-18 04:40:56+13:00
+Inj. volume:,1.000 µL,Location:,108
+Acq. method:,floral volatiles SPME DB-Wax.amx,Type:,Sample
+Processing method:,MS_DefaultMethod-floral-volatiles-2023.pmx,Sample amount:,0.00
+Identified peaks from method library
+Name,RT [min],Spectra Match Factor,Peak Height,Height %,Peak Area,Area %
+"Carbamic acid, monoammonium salt",3.351,929,1946554.6,0.74,4017709.7,0.49
+"Acetic acid, methyl ester",4.503,993,1985742.8,0.75,3890061.1,0.48
+Ethyl Acetate,5.096,809,19031261.8,7.19,58425902.6,7.20
+Ethanol,5.774,986,4374628.1,1.65,12931703.9,1.59
+"Propanoic acid, ethyl ester",6.112,972,2700495.0,1.02,5661670.1,0.70
+"Propanoic acid, 2-methyl-, ethyl ester",6.262,988,2304726.9,0.87,5064393.6,0.62
+α-Pinene,7.443,987,36428837.2,13.77,168741441.4,20.78
+"Butanoic acid, ethyl ester",7.673,977,904358.8,0.34,2025862.9,0.25
+"Butanoic acid, 2-methyl-, ethyl ester",8.068,981,11814053.6,4.47,28326534.5,3.49
+β-Pinene,9.230,982,2893176.9,1.09,7698122.1,0.95
+β-Myrcene,10.613,100,1043197.0,0.39,3546410.3,0.44
+"2-Butenoic acid, ethyl ester, (Z)-",11.004,961,4251511.4,1.61,11271660.8,1.39
+D-Limonene,11.931,992,1796182.8,0.68,5320248.3,0.66
+"1-Butanol, 3-methyl-",12.423,304,2291924.2,0.87,7516724.9,0.93
+Eucalyptol,12.481,547,742451.1,0.28,2010701.5,0.25
+"2-Butenoic acid, 3-methyl-, ethyl ester",13.003,256,796346.8,0.30,1944236.4,0.24
+"Furan, 2-pentyl-",13.079,266,1111956.4,0.42,2913318.9,0.36
+Ethyl tiglate,13.309,956,9887624.8,3.74,30158981.0,3.71
+3-Carene,13.688,929,20696060.8,7.82,104721027.3,12.90
+Styrene,13.887,989,3275029.5,1.24,10008110.3,1.23
+"3,5-Heptanedione, 2,2,6-trimethyl-",20.149,128,662961.2,0.25,2247684.8,0.28
+trans-Linalool oxide (furanoid),20.404,249,3416717.7,1.29,13369005.7,1.65
+Copaene,21.531,873,1750476.9,0.66,6605747.6,0.81
+"1H-Cycloprop[e]azulene, 1a,2,3,4,4a,5,6,7b-octahydro-1,1,4,",22.562,211,1467635.6,0.55,4269186.1,0.53
+"Benzene, 1-ethyl-4-methoxy-",22.709,277,1239436.2,0.47,4331221.5,0.53
+1-Octanol,23.153,437,1248180.5,0.47,3295017.8,0.41
+Caryophyllene,24.746,982,2216706.0,0.84,7269621.3,0.90
+"2-Butenoic acid, 2-methyl-, 3-methyl-2-butenyl ester, (E)-",25.048,386,585379.6,0.22,2022362.4,0.25
+Bicyclosesquiphellandrene,25.764,987,2157173.5,0.82,6699991.0,0.83
+Alloaromadendrene,26.181,980,908757.9,0.34,3991568.5,0.49
+"1-Isopropyl-4,7-dimethyl-1,2,3,4,5,6-hexahydronaphthalene",26.563,968,1357023.1,0.51,4496086.5,0.55
+"Benzoic acid, ethyl ester",26.735,967,6853274.6,2.59,20427571.1,2.52
+trans-Verbenol,26.978,196,7787058.3,2.94,23102881.9,2.85
+α-Terpineol,27.605,309,621659.3,0.23,1952168.9,0.24
+"cis-Muurola-4(15),5-diene",28.148,950,631069.4,0.24,2019780.7,0.25
+"Bicyclo[3.1.1]hept-3-en-2-one, 4,6,6-trimethyl-",28.292,510,800015.6,0.30,2465103.7,0.30
+"Naphthalene, 1,2,4a,5,6,8a-hexahydro-4,7-dimethyl-1-(1-meth",28.412,610,806230.9,0.30,3007829.4,0.37
+"(1S,2E,6E,10R)-3,7,11,11-Tetramethylbicyclo[8.1.0]undeca-2,",28.686,978,1086199.8,0.41,3205491.0,0.39
+"1-Isopropyl-4,7-dimethyl-1,2,3,5,6,8a-hexahydronaphthalene",29.310,962,2119833.6,0.80,6716455.0,0.83
+Cubenene,30.007,932,963815.5,0.36,2802650.5,0.35
+(-)-Myrtenol,30.350,993,3213072.4,1.21,9434483.2,1.16
+"Naphthalene, 1,2,3,4-tetrahydro-1,6-dimethyl-4-(1-methyleth",31.378,996,4937085.8,1.87,14978648.1,1.84
+(-)-cis-Myrtanol,32.492,555,1935316.8,0.73,4626336.2,0.57
+Phenylethyl Alcohol,33.436,989,840223.1,0.32,2571659.1,0.32
+ortho-Methoxyacetophenone,35.496,979,924448.0,0.35,2822284.2,0.35
+"Phenol, 4-ethyl-2-methoxy-",36.364,991,3708790.3,1.40,11603754.9,1.43
+4-Vinylphenol,37.318,896,9534102.8,3.60,16919360.1,2.08
