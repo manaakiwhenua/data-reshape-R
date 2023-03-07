@@ -22,14 +22,19 @@ get_compound_values <- function(compound_variable){
     colnames(data1) <- data1[1,]
     data1<- data1[-1, ]
     
+    # A rather ugly way of getting the sample (file) id -- needs cleaning up
+    sampleN <-  read.table(file = filename,header = F,nrows = 1)
+    rownames(data1) <- paste(sampleN[2],sampleN[3])
+    
     #Merge (append) compound values as the loop reads and processes each sample file
     if (nrow(final_data) == 0){
-      final_data <- data1
+      final_data <- cbind(rownames=rownames(data1), data1 )
     }else{
-      final_data <- merge(final_data, data1, all=TRUE) 
+      final_data <- merge(x= final_data,  y=cbind(rownames=rownames(data1), data1 ), all=TRUE) 
     }
   }
   # Write out the result into a csv file
+  colnames(final_data)[1] <- "sample_ID" 
   write_csv(final_data, file=paste("results_",compound_variable,".csv", sep="") )
 }
 
